@@ -66,5 +66,10 @@ resume_zone.wav,"Zone schoonmaak hervatten."
 stop_goto.wav,"Naar opgegeven punt gaan is onderbroken."
 stop_zone.wav,"Zone schoonmaak is klaar."
 zone.wav,"Zone schoonmaak starten."
+<<<<<<< HEAD
 zone_complete.wav,"Zone schoonmaak is klaar, terugkeren naar het oplaadstation."
 zone_failed.wav,"Zone schoonmaak is klaar, terugkeren naar het oplaadstation. Sommige plekken konden niet worden bereikt."
+=======
+zone_complete.wav,"Zone schoonmaak is klaar,"terugkeren naar het oplaadstation.""
+zone_failed.wav,"Zone schoonmaak is klaar,"terugkeren naar het oplaadstation. Sommige plekken konden niet worden bereikt.""
+>>>>>>> 49ed0e338d9274589e53b50da12a7fca3a55124e
